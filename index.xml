@@ -27,15 +27,5 @@
  Weather data from Met Eireann: Meteorological data published by Met Eireann for weather stations across the country was retreived and then processed to match data available for electricity load. Electricity Load data as provided by ENTSO-E Data Exchange. Data was made available for most EU countries, starting Jan 1 2015, and Ireland data was retrieved and processed to create the model.</description>
     </item>
     
-    <item>
-      <title>Contact</title>
-      <link>https://sirominous.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sirominous.github.io/contact/</guid>
-      <description>You can connect with me using the following platforms.
-   Platform URL    LinkedIn:|	https://www.linkedin.com/in/prakarshravi/</description>
-    </item>
-    
   </channel>
 </rss>
