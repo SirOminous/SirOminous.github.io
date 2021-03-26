@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Prakarsh Ravi</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Projects on Prakarsh Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Credit Scorecard</title>
+      <link>https://example.com/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-2/</guid>
+      <description>Scorecard based credit lending model, based on Lending Club loans data from 2007 to Q2 2020.
+  Lake View Alfred   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Ireland Weather and Power Consumption</title>
+      <link>https://example.com/post/project-1/</link>
+      <pubDate>Mon, 10 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-1/</guid>
+      <description>To create this project, data from the following sources was utilized -
+ Weather data from Met Eireann: Meteorological data published by Met Eireann for weather stations across the country was retreived and then processed to match data available for electricity load. Electricity Load data as provided by ENTSO-E Data Exchange. Data was made available for most EU countries, starting Jan 1 2015, and Ireland data was retrieved and processed to create the model.</description>
+    </item>
+    
+  </channel>
+</rss>
