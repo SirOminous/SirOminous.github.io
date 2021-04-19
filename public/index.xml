@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science and Analytics Portfolio on Prakarsh Ravi</title>
+    <link>https://sirominous.github.io/</link>
+    <description>Recent content in Data Science and Analytics Portfolio on Prakarsh Ravi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sirominous.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EDA: Tech Giant Acquisitions, 1987 - 2018</title>
+      <link>https://sirominous.github.io/post/edatechgiants/</link>
+      <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sirominous.github.io/post/edatechgiants/</guid>
+      <description>Introduction A dataset published by Shivam Bansal tabulates acquisitions by 7 top tech companies, between the period 1987 - 2010. The companies covered by this dataset are -
+ Apple Facebook Google IBM Microsoft Twitter Yahoo  Combined, these companies have made 916 acquisitions over the four decades. The analysis section below presents a high level discussion of the data.
+Vizualisation Inspired by Shivam Bansal&amp;rsquo;s original work, as well as others who have presented analysis on this dataset, I set out to create aggregated data vizualisations for this dataset on Kaggle.</description>
+    </item>
+    
+  </channel>
+</rss>
